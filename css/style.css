@@ -1,0 +1,15 @@
+.block-content{
+    background: red;
+}
+.content-two{/*блок з доповненням*/
+    display: none;
+}
+.content-one__btn{
+    display: flex;
+    justify-content: center;
+}
+.next{
+    width: 120px;
+    background: rebeccapurple;
+   
+}
